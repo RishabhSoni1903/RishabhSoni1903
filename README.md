@@ -8,18 +8,6 @@ I am a self driven, motivated developer with ! year of experience in React and R
   <p>HTML, CSS, Javascript, React, Redux, Tailwind CSS, Bootstrap, Nodejs, MongoDB, Express</p>
 </div>
 
-### Connect with me on:
-
-<p align="center">
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-
-  [twitter]: https://x.com/@Arreeyyrishabh/
-  [linkedin]: https://www.linkedin.com/in/rishabh-soni-0316a0229/
-  [instagram]: https://www.instagram.com/arreeyyrishabh
-</p>
-
 ### Languages and Tools:
 
 <p align="center">
